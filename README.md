@@ -40,7 +40,7 @@
 
 ---
 
-[!My stats](https://github-readme-stats.vercel.app/api?username=theshoperr&show_icons=true&theme=dark)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=theshoperr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [Click]: https://www.fiverr.com/theshoperr12
