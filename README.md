@@ -42,4 +42,4 @@
 [rhymu]: https://gamejolt.com/@Rhymu
 [tsu]: https://theshoperr.itch.io/tsu
 [discord]: https://discord.com
-[email]: https://google.com
+[email]: https://raw.githubusercontent.com/theshoperr/theshoperr/master/email.txt
