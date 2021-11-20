@@ -38,6 +38,11 @@
 <br />
 <br />
 
+---
+
+[!My stats](https://github-readme-stats.vercel.app/api?username=theshoperr&show_icons=true&theme=dark)
+
+
 [Click]: https://www.fiverr.com/theshoperr12
 [youtube]: https://www.youtube.com/MGArtDZN
 [aottg2]: https://github.com/AoTTG-2/AoTTG-2
