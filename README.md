@@ -4,6 +4,7 @@
 
 [<img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>][discord]
 [<img align="left" alt="MGArtDZN" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Mat11godinho@hotmail.com" width="22px" src="https://img.icons8.com/color/48/000000/ms-outlook.png" />][email]
 
 <br />
 
@@ -41,3 +42,4 @@
 [rhymu]: https://gamejolt.com/@Rhymu
 [tsu]: https://theshoperr.itch.io/tsu
 [discord]: https://discord.com
+[email]: https://google.com
