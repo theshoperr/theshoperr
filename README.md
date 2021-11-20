@@ -8,11 +8,11 @@
 - 🥁 Playing the drums
 
 ## I sell digital products here:
-- Fiverr: [Click]
+- [Fiverr][Click]
 
 ### Contact me:
-[<img align="left" alt="theshoperr#8074" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />]
-[<img align="left" alt="MGArtDZN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
+<img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
+[<img align="left" alt="MGArtDZN" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
 ### Projects I am working on:
 - [AOTTG2] (Unity Game)
@@ -22,11 +22,11 @@
 - GBank (Cryptocurrency)
 
 ### Languages I use:
-[<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />]
-[<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />]
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />]
-[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />]
+<img align="left" alt="C#" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Javascript" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="HTML" width="22px" src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" />
+<img align="left" alt="PHP" width="22px" src="https://img.icons8.com/offices/30/000000/php-logo.png" />
+<img align="left" alt="CSS" width="22px" src="https://img.icons8.com/ios-filled/50/000000/css3.png" />
 
 <br />
 <br />
