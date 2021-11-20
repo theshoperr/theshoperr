@@ -7,17 +7,17 @@
 - 🎬 Watching series
 - 🥁 Playing the drums
 
-## I sell digital products here:
+### I sell digital products here:
 - [Fiverr][Click]
 
-### Contact me:
-<img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
+## Contact me:
 [<img align="left" alt="MGArtDZN" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+<img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
 
-### Projects I am working on:
-- [AOTTG2] (Unity Game)
-- [Rhymu-Studio] (Game Studio)
-- [TSU-Updater] (C# Tool)
+## Projects I am working on:
+- [AOTTG 2][aottg2] (Unity Game)
+- [Rhymu-Studio][rhymu] (Game Studio)
+- [TSU-Updater][tsu] (C# Tool)
 - Zena (C# Tool)
 - GBank (Cryptocurrency)
 
@@ -33,6 +33,6 @@
 
 [Click]: https://www.fiverr.com/theshoperr12
 [youtube]: https://www.youtube.com/MGArtDZN
-[AOTTG2]: https://github.com/AoTTG-2/AoTTG-2
-[Rhymu-Studio]: https://gamejolt.com/@Rhymu
-[TSU-Updater]: https://theshoperr.itch.io/tsu
+[aottg2]: https://github.com/AoTTG-2/AoTTG-2
+[rhymu]: https://gamejolt.com/@Rhymu
+[tsu]: https://theshoperr.itch.io/tsu
