@@ -29,9 +29,11 @@
 
 <img align="left" alt="C#" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 <img align="left" alt="Javascript" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="HTML" width="22px" src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" />
+<img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="PHP" width="22px" src="https://img.icons8.com/offices/30/000000/php-logo.png" />
-<img align="left" alt="CSS" width="22px" src="https://img.icons8.com/ios-filled/50/000000/css3.png" />
+<img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="SASS" width="22px" src="https://img.icons8.com/color/48/000000/sass.png" />
+<img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />
 
 <br />
 <br />
