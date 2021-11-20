@@ -5,6 +5,8 @@
 [<img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>][discord]
 [<img align="left" alt="MGArtDZN" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
+<br />
+
 ## I like to do all sorts of things, like:
 - 💻 Programming
 - 🎮 Gaming
