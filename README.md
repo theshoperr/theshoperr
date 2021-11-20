@@ -1,4 +1,4 @@
-### HI, my name is theshoperr or Mateus.
+## HI, my name is theshoperr or Mateus.
 
 ## I like to do all sorts of things, like: 
 - 💻 Programming
@@ -24,7 +24,7 @@
 <img align="left" alt="PHP" width="22px" src="https://img.icons8.com/offices/30/000000/php-logo.png" />
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/ios-filled/50/000000/css3.png" />
 
-## Contact me:
+### Contact me:
 [<img align="left" alt="MGArtDZN" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 <img align="left" alt="theshoperr#8074" width="22px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
 
