@@ -1,4 +1,4 @@
-### HI, my name is theshoperr or Mateus.
+### Hi, my name is theshoperr or Mateus.
 
 ### My portifolio:
 [<img align="left" alt="www.godinho.work" width="22px" src="https://caiodonalisio.com/static/blog/posts/projetos/website/cover.png"/>Click here][portifas]
