@@ -17,6 +17,7 @@
 - 🎨 Designing
 - 🎬 Watching series
 - 🥁 Playing the drums
+- 🛹 Skating
 
 ### I sell digital products here:
 - [Fiverr][Click]
@@ -37,6 +38,7 @@
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="SASS" width="22px" src="https://img.icons8.com/color/48/000000/sass.png" />
 <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />
+<img align="left" alt="Swift" width="22px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
 <br />
 <br />
