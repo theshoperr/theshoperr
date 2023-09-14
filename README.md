@@ -26,6 +26,7 @@
 - [AOTTG 2][aottg2] (Unity Game)
 - [Rhymu-Studio][rhymu] (Game Studio)
 - [TSU-Updater][tsu] (C# Tool)
+- [TrueCo][trueco] (iOS App)
 - Zena (C# Tool)
 - GBank (Cryptocurrency)
 
@@ -60,3 +61,4 @@
 [discord]: https://discord.com
 [email]: https://raw.githubusercontent.com/theshoperr/theshoperr/master/email.txt
 [portifas]: https://www.godinho.work
+[trueco]: http://godinho.work/trueco/
