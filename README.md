@@ -1,5 +1,7 @@
 ### Hi, my name is Mateus.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Acumin+Pro+Wide&size=30&pause=1000&color=AAF785&vCenter=true&random=false&width=435&lines=DEVELOPER;DESIGNER)](https://git.io/typing-svg)
+
 ### My portifolio:
 [<img align="left" alt="www.godinho.work" width="22px" src="https://caiodonalisio.com/static/blog/posts/projetos/website/cover.png"/>Click here][portifas]
 
