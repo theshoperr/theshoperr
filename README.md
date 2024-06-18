@@ -24,11 +24,16 @@
 ### I sell digital products here:
 - [Fiverr][Click]
 
+### Released Projects:
+- [TrueCo][trueco] (iOS App)
+- [Lovezônia][lovezonia] (iPadOS App)
+- [Magus Tower][magustower] (iOS App)
+- [AirChess][airchess] (VisionOS and iOS App)
+
 ## Projects I am working on:
 - [AOTTG 2][aottg2] (Unity Game)
 - [Rhymu-Studio][rhymu] (Game Studio)
 - [TSU-Updater][tsu] (C# Tool)
-- [TrueCo][trueco] (iOS App)
 - Zena (C# Tool)
 - GBank (Cryptocurrency)
 
@@ -64,3 +69,6 @@
 [email]: https://raw.githubusercontent.com/theshoperr/theshoperr/master/email.txt
 [portifas]: https://www.godinho.work
 [trueco]: http://godinho.work/trueco/
+[lovezonia]: https://apps.apple.com/br/app/lovezônia/id6450119711
+[magustower]: https://apps.apple.com/br/app/magus-tower/id6449265470
+[airchess]: https://apps.apple.com/us/app/airchess/id6498967964
